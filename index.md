@@ -203,7 +203,7 @@ If you have questions about this Privacy Policy, our privacy practices, or wish 
 
 **Email:** rdc491994@gmail.com
 
-**GitHub Repository:** [your-github-repo-link]
+**GitHub Repository:** https://github.com/rdc-tech49/privacy-policy-taskline/tree/main
 
 **Response Time:** We aim to respond to all privacy inquiries within 14 days.
 
